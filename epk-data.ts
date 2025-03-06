@@ -109,8 +109,8 @@ export const EPK_DATA = {
             title: null,
             resources: [
                 {
-                    name: "archivo-ejemplo.mp4",
-                    link: "https://9l6qnyfkes.ufs.sh/f/oCuvxwbj7yrx2q0R1Lun0Rje3hU5TWIDNfbVEsPL7aB98Xkc",
+                    //name: "archivo-ejemplo.mp4",
+                   // link: "https://9l6qnyfkes.ufs.sh/f/oCuvxwbj7yrx2q0R1Lun0Rje3hU5TWIDNfbVEsPL7aB98Xkc",
                 },
             ],
         },
