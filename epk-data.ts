@@ -116,7 +116,7 @@ export const EPK_DATA = {
             }
         ]
     }
-]
+],
 
     "videos-oficiales": [
         {
