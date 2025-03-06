@@ -69,46 +69,51 @@ export const EPK_DATA = {
             ],
         },
     ],
-    "logotipo-oficial": [
-        {
-            title: null,
-            resources: [
-                {
-                    name: "archivo-ejemplo.png",
-                    link: "https://9l6qnyfkes.ufs.sh/f/oCuvxwbj7yrx2q0R1Lun0Rje3hU5TWIDNfbVEsPL7aB98Xkc",
-                },
-            ],
-        },
-    ],
-    "rider-tecnico": [
-        {
-            title: null,
-            resources: [
-                {
-                    name: "archivo-ejemplo.pdf",
-                    link: "https://9l6qnyfkes.ufs.sh/f/oCuvxwbj7yrx2q0R1Lun0Rje3hU5TWIDNfbVEsPL7aB98Xkc"
-                }
-            ]
-        }
-    ],
-    "brochure": [
-        {
-            title: null,
-            resources: [
-                {
-                    name: "archivo-ejemplo.pdf",
-                    link: "https://9l6qnyfkes.ufs.sh/f/oCuvxwbj7yrx2q0R1Lun0Rje3hU5TWIDNfbVEsPL7aB98Xkc"
-                }
-            ]
-        }
-    ],
+    // "logotipo-oficial": [
+    //     {
+    //         title: null,
+    //         resources: [
+    //             {
+    //                 name: "archivo-ejemplo.png",
+    //                 link: "https://9l6qnyfkes.ufs.sh/f/oCuvxwbj7yrx2q0R1Lun0Rje3hU5TWIDNfbVEsPL7aB98Xkc",
+    //             },
+    //         ],
+    //     },
+    // ],
+    // "rider-tecnico": [
+    //     {
+    //         title: null,
+    //         resources: [
+    //             {
+    //                 name: "archivo-ejemplo.pdf",
+    //                 link: "https://9l6qnyfkes.ufs.sh/f/oCuvxwbj7yrx2q0R1Lun0Rje3hU5TWIDNfbVEsPL7aB98Xkc"
+    //             }
+    //         ]
+    //     }
+    // ],
+    // "brochure": [
+    //     {
+    //         title: null,
+    //         resources: [
+    //             {
+    //                 name: "archivo-ejemplo.pdf",
+    //                 link: "https://9l6qnyfkes.ufs.sh/f/oCuvxwbj7yrx2q0R1Lun0Rje3hU5TWIDNfbVEsPL7aB98Xkc"
+    //             }
+    //         ]
+    //     }
+    // ],
     biografia: [
         {
             title: null,
             resources: [
                 {
-                    name: "archivo-ejemplo.pdf",
-                    link: "https://9l6qnyfkes.ufs.sh/f/oCuvxwbj7yrx2q0R1Lun0Rje3hU5TWIDNfbVEsPL7aB98Xkc",
+                    name: "Biografia.jpg",
+                    link: "https://drive.google.com/file/d/12fDSfuOOlDfYYvp9Ak0gt545AhGdpsOs/view?usp=sharing",
+                },
+             resources: [
+                {
+                    name: "Biografia.pdf",
+                    link: "https://drive.google.com/file/d/1pcz9u67V90wETkBc2bFI-pmRqzriVa5p/view?usp=sharing",
                 },
             ],
         },
