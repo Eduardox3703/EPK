@@ -1,33 +1,19 @@
 export const EPK_DATA = {
-    // "audios-promocionales": [
-    //     {
-    //         title: "Te Va Doler",
-    //         resources: [
-    //             {
-    //                 name: "Te_Va_A_Doler_Mastered.wav",
-    //                 link: "https://drive.google.com/file/d/1OEntjqMG_kZ4-ot0yaFKUsDymo2uu_4j/view?usp=sharing",
-    //             },
-    //         ],
-    //     },
-    //     {
-    //         title: "Mi Persona Preferida",
-    //         resources: [
-    //             {
-    //                 name: "Mi_Persona_Preferida_Mastered.wav",
-    //                 link: "https://drive.google.com/file/d/1EkPAHqI9cY7_hN7mO6sa5cEQdhg0sUPh/view?usp=sharing",
-    //             },
-    //         ],
-    //     },
-    //     {
-    //         title: "Tal Vez",
-    //         resources: [
-    //             {
-    //                 name: "Tal_Vez_Master_Mastered.wav",
-    //                 link: "https://drive.google.com/file/d/1QlulPx24e-VAYoCkvI3gtmCOdQO6sXyE/view?usp=sharing",
-    //             },
-    //         ],
-    //     },
-    // ],
+    "audios-promocionales": [
+        {
+            title: "DESIERTO",
+            resources: [
+                {
+                    name: "DESIERTO INSTRUMENTAL.wav",
+                    link: "https://drive.google.com/file/d/1oryO_1oz_mlUJ_mcq3QdssRBXzf-GpLe/view?usp=sharing",
+                },
+                {
+                    name: "DESIERTO MASTER.wav",
+                    link: "https://drive.google.com/file/d/1VuibQCVm-uoZrM1J8JdE0VN8KRWA1hC-/view?usp=sharing",
+                }
+            ],
+        },
+    ],
     "fotos-oficiales": [
         {
             title: null,
