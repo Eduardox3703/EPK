@@ -110,12 +110,10 @@ export const EPK_DATA = {
                     name: "Biografia.jpg",
                     link: "https://drive.google.com/file/d/12fDSfuOOlDfYYvp9Ak0gt545AhGdpsOs/view?usp=sharing",
                 },
-             resources: [
                 {
                     name: "Biografia.pdf",
                     link: "https://drive.google.com/file/d/1pcz9u67V90wETkBc2bFI-pmRqzriVa5p/view?usp=sharing",
                 },
-            ],
         },
     ],
     "videos-oficiales": [
