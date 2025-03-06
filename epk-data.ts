@@ -113,8 +113,9 @@ export const EPK_DATA = {
                 {
                     name: "Biografia.pdf",
                     link: "https://drive.google.com/file/d/1pcz9u67V90wETkBc2bFI-pmRqzriVa5p/view?usp=sharing",
-                },
-        },
+                }
+                ]
+        }
     ],
     "videos-oficiales": [
         {
