@@ -102,21 +102,22 @@ export const EPK_DATA = {
     //         ]
     //     }
     // ],
-    biografia: [
-        {
-            title: null,
-            resources: [
-                {
-                    name: "Biografia.jpg",
-                    link: "https://drive.google.com/file/d/12fDSfuOOlDfYYvp9Ak0gt545AhGdpsOs/view?usp=sharing",
-                },
-                {
-                    name: "Biografia.pdf",
-                    link: "https://drive.google.com/file/d/1pcz9u67V90wETkBc2bFI-pmRqzriVa5p/view?usp=sharing",
-                }
-                ]
-        }
-    ],
+   "biografia": [
+    {
+        "title": null,
+        "resources": [
+            {
+                "name": "Biografia.jpg",
+                "link": "https://drive.google.com/file/d/12fDSfuOOlDfYYvp9Ak0gt545AhGdpsOs/view?usp=sharing"
+            },
+            {
+                "name": "Biografia.pdf",
+                "link": "https://drive.google.com/file/d/1pcz9u67V90wETkBc2bFI-pmRqzriVa5p/view?usp=sharing"
+            }
+        ]
+    }
+]
+
     "videos-oficiales": [
         {
             title: null,
