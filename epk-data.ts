@@ -118,7 +118,7 @@ export const EPK_DATA = {
 };
 
 export const EPK_VIEWS_NAMES: Record<string, string> = {
-    // "audios-promocionales": "Audios Promocionales",
+    "audios-promocionales": "Audios Promocionales",
     "fotos-oficiales": "Fotos Oficiales",
     "logotipo-oficial": "Logotipo Oficial",
     "videos-oficiales": "Videos Oficiales",
