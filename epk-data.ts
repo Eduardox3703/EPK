@@ -97,7 +97,7 @@ export const EPK_DATA = {
 ],
 
     "videos-oficiales": [
-        {
+       {
             title: null,
             resources: [
                 // {
@@ -106,7 +106,7 @@ export const EPK_DATA = {
                 // },
             ],
         },
-    ],
+   ],
 };
 
 export const EPK_VIEWS_NAMES: Record<string, string> = {
